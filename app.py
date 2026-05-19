@@ -32,6 +32,7 @@ import pages.home  # noqa: E402, F401
 import pages.proekcia_vektora_na_ploskost  # noqa: E402, F401
 import pages.skaljarnoe_proizvedenie  # noqa: E402, F401
 import pages.rang_matritsy  # noqa: E402, F401
+import pages.proektor_matricy  # noqa: E402, F401
 import i18n.callbacks  # noqa: E402, F401
 
 if __name__ == "__main__":

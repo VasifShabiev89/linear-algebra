@@ -36,6 +36,9 @@ Current topics:
   orthogonality, projection, properties (steps 0–6, presets and sliders for **a**, **b**).
 - **Matrix rank** (`/rang`) — columns, span, independence, Gaussian elimination,  
   `rank(A) = rank(Aᵀ)`, dimension and systems `Ax = b` (steps 0–7, matrix presets).
+- **Matrix projector** (`/proektor`) — `A(AᵀA)⁻¹Aᵀv` for non-orthogonal directions only:  
+  `Aᵀ` measures raw dot products, `AᵀA` shows how those measurements mix,  
+  `(AᵀA)⁻¹` unmixes them, and `A` assembles the shadow (steps 0–9).
 
 Stop: `Ctrl+C`.
 

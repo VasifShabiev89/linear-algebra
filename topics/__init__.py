@@ -32,4 +32,10 @@ TOPICS: tuple[Topic, ...] = (
         formula="rank(A) + nullity(A) = n",
         tag_key="3D",
     ),
+    Topic(
+        id="proektor",
+        path="/proektor",
+        formula="measure → correct → assemble: A(AᵀA)⁻¹Aᵀv",
+        tag_key="3D",
+    ),
 )
